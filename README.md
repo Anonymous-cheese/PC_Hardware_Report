@@ -1,6 +1,6 @@
 # PC Hardware Report
 
-A fully offline Windows system auditing tool that generates a detailed HTML report of your PC’s hardware — including CPU, GPU, RAM, motherboard, disks, network adapters, and power information — all without internet access or installation.
+A fully offline Windows system auditing tool that generates a detailed HTML report of your PC’s hardware including CPU, GPU, RAM, motherboard, disks, network adapters, and power information all without internet access or installation.
 
 ## Features
 
